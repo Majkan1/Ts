@@ -30,3 +30,4 @@ Thumbs.db
 # VS Code (keep launch config)
 .vscode/*
 !.vscode/launch.json
+!.vscode/tasks.json
